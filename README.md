@@ -22,7 +22,7 @@ Hver ret bygger på en rigtig opskrift fra Valdemarsro, Coop, REMA 1000, DR Mad,
 
 ## Det skal du bruge
 
-Du skal have en Claude-konto, hvor du kan oprette apps (artifacts) og planlagte opgaver. Hvert voksent medlem, der skal sætte flueben, skal også have en Claude-konto.
+Du skal have en Claude-konto, hvor du kan oprette apps (artifacts) og planlagte opgaver. Har du gratisversionen, så se afsnittet [Med gratisversionen af Claude](#med-gratisversionen-af-claude). Hvert voksent medlem, der skal sætte flueben, skal også have en Claude-konto.
 
 Hav svarene på disse spørgsmål klar. Claude spørger om dem, når du indsætter startprompten.
 
@@ -47,6 +47,23 @@ Opsætningen tager cirka 15 minutter og sker i én chat med Claude.
 5. Tjek opsætningen med punkterne herunder.
 
 Er næste uges tilbudsavis ikke ude endnu, skriver opgaven det tydeligt og lægger ikke en plan i appen.
+
+## Med gratisversionen af Claude
+
+Appen virker også på gratisversionen, men planlagte opgaver findes ikke der, og appen kan ikke deles med resten af husstanden. Du kører derfor selv prompten én gang om ugen.
+
+**Første gang:**
+
+1. Følg trin 1-3 ovenfor, men skriv denne linje øverst i beskeden: "Jeg har gratisversionen. Spring trin 3 og 4 over, og lav ingen planlagt opgave. Giv mig i stedet prompten fra fredagsopgave.md udfyldt med mine svar og appens link, så jeg kan gemme den."
+2. Gem den udfyldte prompt, du får tilbage, fx i en note på telefonen.
+
+**Hver uge, fx fredag eller lørdag:**
+
+1. Start en ny chat med Claude.
+2. Indsæt din gemte prompt, og send den.
+3. Åbn appen, når Claude skriver, at planen er gemt. Om søndagen skifter appen selv til den nye uge.
+
+Fluebenene virker som normalt, men kun for dig.
 
 ## Kontrol
 
