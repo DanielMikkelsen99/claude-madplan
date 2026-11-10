@@ -86,4 +86,4 @@ Planerne laves af AI ud fra offentlige tilbudsaviser og opskriftssider. Tjek alt
 
 ## Licens
 
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Du må gerne bruge, dele og rette projektet til private og andre ikke-kommercielle formål, når du krediterer ophavsmanden og linker til licensen. Kommerciel brug er ikke tilladt. Se [LICENSE](LICENSE).
+MIT, se [LICENSE](LICENSE).
